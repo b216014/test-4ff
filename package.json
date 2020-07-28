@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "4ff-lib-foundation": "https://git.msv.mckinsey.com/4FF/4ff-lib-foundation.git",
-    "react-scripts": "^3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
